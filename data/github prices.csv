@@ -1,4 +1,4 @@
-eventId,facevalue,date,today's price, last week's price, price 2 weeks ago, price 3 weeks ago, price 4 weeks ago
+eventId,day of game,facevalue,date,today's price, last week's price, price 2 weeks ago, price 3 weeks ago, price 4 weeks ago
 9445359,2016-07-15T13:20:00-0500,72.8,2016-07-12,154.43,143.78,149.75,161.45,132.19
 9445360,2016-07-16T13:20:00-0500,72.8,2016-07-12,149.75,138.05,142.73,147.41,138.05
 9445361,2016-07-17T13:20:00-0500,72.8,2016-07-12,102.95,105.29,107.05,73.7,101.78
