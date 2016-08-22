@@ -6,10 +6,10 @@ os.system("c://users//monstar/python//stubhub//cubs//stubhub_make_min_pricing_fi
 
 commit_message = str(datetime.today())[0:10]
 
-os.system("git add .")
-os.system('git commit -m "{}"'.format(commit_message))
-os.system("git push origin master")
+os.system("git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git add .")
+os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git commit -m "{}"'.format(commit_message))
+os.system("git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git push origin master")
 
-os.system('git checkout gh-pages')
-os.system('git merge -m "{}"'.format(commit_message))
-os.system("git push origin gh-pages")
+os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git checkout gh-pages')
+os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git merge -m "{}"'.format(commit_message))
+os.system("git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git push origin gh-pages")
