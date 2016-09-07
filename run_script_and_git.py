@@ -4,6 +4,7 @@ import time
 
 while True:
 
+    print(datetime.today())
     os.system("c://users//monstar/python//stubhub//cubs//stubhub_make_min_pricing_file.py")
 
     commit_message = str(datetime.today())[0:10]

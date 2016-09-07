@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\users\monstar\python\stubhub\cubs-bleacher-prices\run_script_and_git.py", 0, True
