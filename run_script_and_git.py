@@ -15,9 +15,11 @@ while True:
     os.system("git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git push origin master")
 
     os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git checkout gh-pages')
-    os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git merge -m "{}"'.format(commit_message))
+    os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git merge origin master -m "{}"'.format(commit_message))
     os.system("git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git push origin gh-pages")
 
+    os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git checkout master')
+    
     print('done')
 
     time.sleep(3600)
