@@ -5,6 +5,7 @@ import time
 while True:
 
     print(datetime.today())
+    os.system('echo -----------{}'.format(datetime.today()))
     os.system("c://users//monstar/python//stubhub//bot//season_tickets//upload_bleacher_prices.py")
 
     commit_message = str(datetime.today())[0:10]
@@ -21,5 +22,5 @@ while True:
     os.system('git --git-dir=C://Users//Monstar//Python//Stubhub//cubs-bleacher-prices//.git checkout master')
     
     print('done')
-
+    os.system('echo ----------- sleeping')
     time.sleep(3600)
