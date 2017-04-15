@@ -1,8 +1,17 @@
-event_id,away_team_name,event_date,day_of_week,last_updated,04/15/17,04/14/17,04/13/17,04/12/17,04/11/17,04/10/17,04/09/17,04/08/17,04/07/17,04/06/17,04/05/17,04/04/17,04/03/17,04/02/17,04/01/17,03/31/17,03/30/17,03/29/17,03/28/17,03/27/17,03/26/17,03/25/17,03/16/17,03/01/17,02/14/17,link
-9723470,Pittsburgh Pirates,2017-04-15 13:20:00,saturday ,2017-04-15 12:21:00.618944,129.6 / 172,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9723470?&sid=117035
-9723475,Pittsburgh Pirates,2017-04-16 13:20:00,sunday   ,2017-04-15 12:21:10.16349,32.4 / 46,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9723475?&sid=117035
-9722506,Milwaukee Brewers,2017-04-17 19:05:00,monday   ,2017-04-15 12:21:21.814157,20.7 / 31,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9722506?&sid=117035
-9722515,Milwaukee Brewers,2017-04-18 19:05:00,tuesday  ,2017-04-15 12:21:37.095031,15.3 / 24,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9722515?&sid=117035
-9722520,Milwaukee Brewers,2017-04-19 13:20:00,wednesday,2017-04-15 12:19:21.112253,14.4 / 23,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9722520?&sid=117035
-9722490,Atlanta Braves,2017-09-01 13:20:00,friday   ,2017-04-15 12:20:54.76661,45.0 / 62,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9722490?&sid=117035
-9723526,Cincinnati Reds,2017-10-01 14:20:00,sunday   ,2017-04-15 12:20:44.588027,27.0 / 39,,,,,,,,,,,,,,,,,,,,,,,,,https://www.stubhub.com/event/9723526?&sid=117035
+event_id,away_team_name,event_date,day_of_week,last_updated,04/15/17,04/14/17,04/13/17,04/12/17,04/11/17,04/10/17,04/09/17,04/08/17,04/01/17,03/25/17,03/16/17,03/01/17,02/14/17,link
+9723470,Pittsburgh Pirates,2017-04-15 13:20:00,saturday ,2017-04-15 12:21:00.618944,129.6 / 172,,,,,,,,,,,,,https://www.stubhub.com/event/9723470?&sid=117035
+9723475,Pittsburgh Pirates,2017-04-16 13:20:00,sunday   ,2017-04-15 12:21:10.16349,32.4 / 46,,,,,,,,,,,,,https://www.stubhub.com/event/9723475?&sid=117035
+9722506,Milwaukee Brewers,2017-04-17 19:05:00,monday   ,2017-04-15 12:21:21.814157,20.7 / 31,,,,,,,,,,,,,https://www.stubhub.com/event/9722506?&sid=117035
+9722515,Milwaukee Brewers,2017-04-18 19:05:00,tuesday  ,2017-04-15 12:21:37.095031,15.3 / 24,,,,,,,,,,,,,https://www.stubhub.com/event/9722515?&sid=117035
+9722520,Milwaukee Brewers,2017-04-19 13:20:00,wednesday,2017-04-15 12:21:53.887991,14.4 / 23,,,,,,,,,,,,,https://www.stubhub.com/event/9722520?&sid=117035
+9723425,Philadelphia Phillies,2017-05-01 19:05:00,monday   ,2017-04-15 12:22:07.879791,18.9 / 28,,,,,,,,,,,,,https://www.stubhub.com/event/9723425?&sid=117035
+9723445,Philadelphia Phillies,2017-05-02 19:05:00,tuesday  ,2017-04-15 12:22:18.424395,17.1 / 26,,,,,,,,,,,,,https://www.stubhub.com/event/9723445?&sid=117035
+9723447,Philadelphia Phillies,2017-05-03 19:05:00,wednesday,2017-04-15 12:22:30.420081,16.2 / 25,,,,,,,,,,,,,https://www.stubhub.com/event/9723447?&sid=117035
+9729558,Philadelphia Phillies,2017-05-04 13:20:00,thursday ,2017-04-15 12:22:42.507772,19.8 / 30,,,,,,,,,,,,,https://www.stubhub.com/event/9729558?&sid=117035
+9723599,New York Yankees,2017-05-05 13:20:00,friday   ,2017-04-15 12:22:57.133609,103.5 / 139,,,,,,,,,,,,,https://www.stubhub.com/event/9723599?&sid=117035
+9723602,New York Yankees,2017-05-06 18:15:00,saturday ,2017-04-15 12:23:11.603436,99.0 / 133,,,,,,,,,,,,,https://www.stubhub.com/event/9723602?&sid=117035
+9723604,New York Yankees,2017-05-07 19:05:00,sunday   ,2017-04-15 12:23:34.250732,72.0 / 98,,,,,,,,,,,,,https://www.stubhub.com/event/9723604?&sid=117035
+9723503,Cincinnati Reds,2017-05-16 19:05:00,tuesday  ,2017-04-15 12:23:52.290763,26.1 / 38,,,,,,,,,,,,,https://www.stubhub.com/event/9723503?&sid=117035
+9723505,Cincinnati Reds,2017-05-17 19:05:00,wednesday,2017-04-15 12:24:05.272506,24.3 / 36,,,,,,,,,,,,,https://www.stubhub.com/event/9723505?&sid=117035
+9722490,Atlanta Braves,2017-09-01 13:20:00,friday   ,2017-04-15 12:20:54.76661,45.0 / 62,,,,,,,,,,,,,https://www.stubhub.com/event/9722490?&sid=117035
+9723526,Cincinnati Reds,2017-10-01 14:20:00,sunday   ,2017-04-15 12:20:44.588027,27.0 / 39,,,,,,,,,,,,,https://www.stubhub.com/event/9723526?&sid=117035
