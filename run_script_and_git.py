@@ -23,4 +23,6 @@ while True:
     
     print('done')
     os.system('echo ----------- sleeping')
+    print(datetime.today())
     time.sleep(3600)
+
